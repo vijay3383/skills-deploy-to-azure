@@ -10,9 +10,9 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace vijay3383 with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  AZURE_WEBAPP_NAME: vijay3383-ttt-app
 
 jobs:
   setup-up-azure-resources:
